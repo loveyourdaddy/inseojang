@@ -23,14 +23,15 @@ name: Inseo Jang
 position: Ph.D. student
 email: isjang08@kaist.ac.kr
 description: >- 
-  Great Day! I study and research Computer Graphics. 
-  Currently, I am a Ph.D student at VML KAIST in South Korea, advised by Prof. [Junyong Noh](https://vml.kaist.ac.kr/main/people/person/1). 
-  My research area is motion retargeting in character animation. 
-  Especially, I focus on retargeting interaction motions between multiple characters of various shapes that animators can use! 
-  During my master's degree, I was in GML advised by Prof. [Hyeong-Seok Ko](http://graphics.snu.ac.kr/~ko/). I studied cloth simulation and conducted research on improving the simulation speed.  
-  I am grateful for the opportunity to learn new things and look forward to experiencing new challenges. 
-  Research Topic. Character animation, Motion retargeting, Cloth simulation
- 
+  Great Day! 
+  I am a Ph.D student at VML KAIST in South Korea, advised by Prof. [Junyong Noh](https://vml.kaist.ac.kr/main/people/person/1). 
+  My research area is character animation and robotics.
+  Especially, I am interested in bridging the two fields: transferring expressive motions of virtual characters to physical robots, and bringing physical plausibility from robotics into character animation!
+  Research Topic: Character animation, Robotics, Motion retargeting
+# During my master's degree, I was in GML advised by Prof. [Hyeong-Seok Ko](http://graphics.snu.ac.kr/~ko/). I studied cloth simulation and conducted research on improving the simulation speed.  
+# I am grateful for the opportunity to learn new things and look forward to experiencing new challenges. 
+# Research Topic. Character animation, Motion retargeting, Cloth simulation
+  
 
 
 # baseurl: "https://sihuncha.tumblr.com/" # the subpath of your site, e.g. /blog
