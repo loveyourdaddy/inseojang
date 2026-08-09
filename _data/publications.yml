@@ -8,10 +8,11 @@
   # "https://loveyourdaddy.github.io/geometry_retargeting/"
   # image: GeometryAwareRetargeting.png
   authors:
-    - Seokhyeon
     - Chaelin
-    - Inseo
+    - Seokhyeon
+    - Kwan
     - Soojin
+    - Inseo
     - Junyong
 
 - id: SMART
@@ -34,7 +35,7 @@
   title: "Geometry-Aware Retargeting for Two-Skinned Characters Interaction"
   venue: SIGGRAPH Asia 2024, ACM Transactions on Graphics (TOG)
   description: "Retargeting interactive motions between characters."
-  project_page: "https://loveyourdaddy.github.io/Geometry_Aware_Retargeting.github.io/"
+  project_page: "https://loveyourdaddy.github.io/Geometry_Aware_Retargeting"
   paper: "https://dl.acm.org/doi/pdf/10.1145/3687962"
   video: "https://www.youtube.com/watch?v=Igl9ghJEVG8"
   # "https://loveyourdaddy.github.io/geometry_retargeting/"
