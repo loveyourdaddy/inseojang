@@ -2,10 +2,9 @@
   title: "CHOIR: Contact-guided Human Object Interaction Motion Retargeting"
   venue: SIGGRAPH Asia 2026, ACM Transactions on Graphics (TOG)
   # description: "CHOIR: Contact-guided Human Object Interaction Motion Retargeting."
-  # project_page: "https://loveyourdaddy.github.io/Geometry_Aware_Retargeting.github.io/"
-  # paper: "https://dl.acm.org/doi/pdf/10.1145/3687962"
-  # video: "https://www.youtube.com/watch?v=Igl9ghJEVG8"
-  # "https://loveyourdaddy.github.io/geometry_retargeting/"
+  project_page: "https://cherry-leki.github.io/projects/ReCHOIR/"
+  arxiv: "2609.10982"
+  video: "https://youtu.be/xJpY9CWKBas"
   # image: GeometryAwareRetargeting.png
   authors:
     - Chaelin
@@ -19,10 +18,9 @@
   title: "Skinned Motion Retargeting via Artifact-driven Kinematic Prior Refinement"
   venue: SIGGRAPH Asia 2026, ACM Transactions on Graphics (TOG)
   # description: "Skinned Motion Retargeting via Artifact-driven Kinematic Prior Refinement."
-  # project_page: "https://loveyourdaddy.github.io/Geometry_Aware_Retargeting.github.io/"
-  # paper: "https://dl.acm.org/doi/pdf/10.1145/3687962"
-  # video: "https://www.youtube.com/watch?v=Igl9ghJEVG8"
-  # "https://loveyourdaddy.github.io/geometry_retargeting/"
+  project_page: "https://seokhyeonhong.github.io/projects/kinematic-refinement/"
+  video: "https://www.youtube.com/watch?v=gpWf8LOA6eQ"
+  github: "seokhyeonhong/kinematic-refinement"
   # image: GeometryAwareRetargeting.png
   authors:
     - Seokhyeon
