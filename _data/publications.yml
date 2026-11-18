@@ -5,7 +5,7 @@
   project_page: "https://cherry-leki.github.io/projects/ReCHOIR/"
   arxiv: "2609.10982"
   video: "https://youtu.be/xJpY9CWKBas"
-  # image: GeometryAwareRetargeting.png
+  image: CHOIR.jpg
   authors:
     - Chaelin
     - Seokhyeon
@@ -21,7 +21,7 @@
   project_page: "https://seokhyeonhong.github.io/projects/kinematic-refinement/"
   video: "https://www.youtube.com/watch?v=gpWf8LOA6eQ"
   github: "seokhyeonhong/kinematic-refinement"
-  # image: GeometryAwareRetargeting.png
+  image: SMART.jpg
   authors:
     - Seokhyeon
     - Chaelin
